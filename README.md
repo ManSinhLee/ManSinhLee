@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ManSinhLee
+- 👀 I’m interested in Unix/Linux, AWS, Infrastructure as Code, GCP, DevOps, Bash & Python scripting
+- 🌱 I’m currently learning AWS, RedHat, Python and IAC
+- 💞️ I’m looking to collaborate on learning
+- 📫 My email: man.sinh.lee@gmail.com
